@@ -15,19 +15,13 @@ Led strips require 5V voltage (no more); Arduino can be powered using 5V only vi
 
 Strip connections:
 - Black: ground
-
 - Red: +5V
-
 - Yellow: Clock Input   (arduino pin 5 for stripA, pin 7 for stripB)
-
 - Green: Data Input     (arduino pin 4 for stripA, pin 6 for stripB)
 
 
 ## Version description
-v0: simple effect, only one particle, one strip, no impact
-
-v1: two strip, one particle for each, different colors (red and green); added impact
-
-v2: deleted impact; still single particle, but only one color, orange, still uses two software SPI (separated channels for stripA, stripB)
-
-v3: now using only a single channel for the two strips (it speeds up running); implemented class particle; instantiated three particles on each strip.
+- v0: simple effect, only one particle, one strip, no impact
+- v1: two strip, one particle for each, different colors (red and green); added impact
+- v2: deleted impact; still single particle, but only one color, orange, still uses two software SPI (separated channels for stripA, stripB)
+- v3: now using only a single channel for the two strips (it speeds up running); implemented class particle; instantiated three particles on each strip.
