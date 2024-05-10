@@ -1,10 +1,10 @@
 # Adafruit DotStar Project
 
 ## Links
-[Ultimate guide to addressable led strips](https://www.ledyilighting.com/it/the-ultimate-guide-to-addressable-led-strip/)
-[RS Online Order](https://it.rs-online.com/web/p/strisce-led/1245482?gb=s)
-[Official Adafruit Product page](https://www.adafruit.com/product/2328)
-[Official Adafruit DotStar Guide](https://www.ledyilighting.com/it/the-ultimate-guide-to-addressable-led-strip/)
+- [Ultimate guide to addressable led strips](https://www.ledyilighting.com/it/the-ultimate-guide-to-addressable-led-strip/)
+- [RS Online Order](https://it.rs-online.com/web/p/strisce-led/1245482?gb=s)
+- [Official Adafruit Product page](https://www.adafruit.com/product/2328)
+- [Official Adafruit DotStar Guide](https://www.ledyilighting.com/it/the-ultimate-guide-to-addressable-led-strip/)
 
 ## Connections
 Strip: connect them to the 5V, 28A output
